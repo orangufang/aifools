@@ -58,4 +58,4 @@ export const CONTRACT_ABI = [
 ];
 
 export const PRIMARY_BUTTON_STYLES =
-  "w-72 bg-emerald-700 py-4 rounded-xl font-mono";
+  "w-72 bg-white py-4 rounded-xl font-mono";
